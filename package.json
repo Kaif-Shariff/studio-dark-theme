@@ -1,0 +1,26 @@
+{
+  "name": "studio-dark-theme",
+  "displayName": "Studio Dark Theme",
+  "description": "Color theme which matches android studio",
+  "version": "0.0.1",
+  "publisher": "KaifShariff",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Studio Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Studio Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}

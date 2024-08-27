@@ -6,8 +6,16 @@
   "publisher": "KaifShariff",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Kaif-Shariff/studio-dark-theme"
   },
+  "keywords": [
+    "android studio theme",
+    "android studio dark theme",
+    "dark theme",
+    "studio dark theme",
+    "studio-dark-theme",
+    "kaif dark theme"
+  ],
   "engines": {
     "vscode": "^1.92.0"
   },
